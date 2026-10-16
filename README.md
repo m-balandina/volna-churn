@@ -6,7 +6,7 @@
 
 **Инструменты:** SQL (SQLite), Yandex DataLens
 **Период данных:** июль 2024 — июнь 2026
-**Дашборд:** [Отписки от сервиса](https://datalens.yandex/25hqe1pwjrw2l?_share_link=public) — открывается без регистрации
+**Дашборд:** [Отписки от сервиса]([https://datalens.yandex/25hqe1pwjrw2l?_share_link=public](https://datalens.ru/25hqe1pwjrw2l-otpiski-ot-servisa?_share_link=org)) — открывается без регистрации
 
 ---
 
